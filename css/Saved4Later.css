@@ -1,0 +1,8 @@
+.box-center {
+        width:500px;
+        margin:23px auto 0;
+}
+
+.error {
+	background-color: #ff0000;
+}

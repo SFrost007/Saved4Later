@@ -1,0 +1,10 @@
+{
+	"id": "com.orangeninja.saved4later",
+	"version": "1.0.0",
+	"vendor": "Orangeninja",
+	"type": "web",
+	"main": "index.html",
+	"title": "Saved4Later",
+	"icon": "icon.png",
+	"uiRevision":2
+}
